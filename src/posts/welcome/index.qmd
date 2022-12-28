@@ -1,0 +1,12 @@
+---
+title: "Hello, World!"
+author: "Ionut Mihalcea"
+date: "2022-12-29"
+categories: [news]
+---
+
+This is the first post.
+
+![](image.jpg)
+
+It has to be a start for every adventure. For software developers, it's often just as simple as taking a cup of coffee and saying, "Hello, World!". So here we are, and our journey begins.

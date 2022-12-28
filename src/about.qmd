@@ -1,0 +1,29 @@
+---
+title: "About"
+image: profile.png
+about:
+  template: trestles
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+
+Welcome to the MoveNext blog!
+
+MoveNext is a consulting company located in Toulouse, France. Our domains of expertise are Software Design and Development and Machine Learning. 
+
+These fields are constantly evolving, and it is essential to stay informed and share knowledge with other professionals in the industry.
+
+We hope our articles will be helpful to you and that you can benefit from them in your daily work. Feel free to share your comments and suggestions with us; we are always open to discussions and exchanging ideas.
+
+Thank you for reading us, and see you soon on our blog!
+
+The MoveNext team.
