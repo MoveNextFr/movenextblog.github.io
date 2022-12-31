@@ -7,6 +7,9 @@ name: Quarto Publish
 
 jobs:
   build-deploy:
+    defaults:
+      run:
+        working-directory: src
     runs-on: ubuntu-latest
     permissions:
       contents: write
