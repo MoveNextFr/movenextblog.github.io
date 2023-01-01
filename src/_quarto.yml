@@ -5,6 +5,15 @@ execute:
 website:
   title: "MoveNext Blog"
   twitter-card: true
+  cookie-consent:
+    type: express
+    style: headline
+    palette: dark
+  google-analytics: 
+    tracking-id: "G-31V1GX81KD"
+    storage: none
+
+
   navbar:
     right:
       - about.qmd
