@@ -3,6 +3,7 @@ title: "Hello, World!"
 author: "Ionut Mihalcea"
 date: "2022-12-29"
 categories: [news]
+creator: "@imihalcea"
 ---
 
 This is the first post.
