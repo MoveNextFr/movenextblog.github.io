@@ -9,7 +9,7 @@ code-line-numbers: true
 
 A test of the capability to display code in the blog. 
 
-## This blog is made with Quarto
+## This blog is made with Quarto, and is awesome!
 
 This blog is authored and published with Quarto. Quarto is an open-source system specialized in technical and scientific publishing. With Quarto you can write your articles as Jupyter notebooks and then publish them as website, e-book or presentation.
 
