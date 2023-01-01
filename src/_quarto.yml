@@ -9,8 +9,6 @@ website:
     tracking-id: "G-31V1GX81KD"
     anonymize-ip: true
     storage: none
-
-
   navbar:
     right:
       - about.qmd
