@@ -1,9 +1,0 @@
----
-title: "Test !"
-author: "Ionut Mihalcea"
-date: "2023-01-01"
-categories: [news]
-creator: "@imihalcea"
----
-
-In this company we test a lot!
