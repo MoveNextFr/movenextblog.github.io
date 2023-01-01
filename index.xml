@@ -10,7 +10,25 @@
 <atom:link href="https://github.com/MoveNextFr/movenextblog.github.io/index.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.2.280</generator>
-<lastBuildDate>Fri, 30 Dec 2022 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Jan 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Test !</title>
+  <dc:creator>Ionut Mihalcea</dc:creator>
+  <link>https://github.com/MoveNextFr/movenextblog.github.io/posts/test-post/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>In this company we test a lot!</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <guid>https://github.com/MoveNextFr/movenextblog.github.io/posts/test-post/index.html</guid>
+  <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Post With Code</title>
   <dc:creator>Ionut Mihalcea</dc:creator>
