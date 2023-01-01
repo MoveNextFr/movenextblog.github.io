@@ -4,6 +4,7 @@ execute:
   freeze: auto
 website:
   title: "MoveNext Blog"
+  twitter-card: true
   navbar:
     right:
       - about.qmd
