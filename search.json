@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Welcome to the MoveNext blog!\nMoveNext is a consulting company located in Toulouse, France. Our domains of expertise are Software Design and Development and Machine Learning.\nThese fields are constantly evolving, and it is essential to stay informed and share knowledge with other professionals in the industry.\nWe hope our articles will be helpful to you and that you can benefit from them in your daily work. Feel free to share your comments and suggestions with us; we are always open to discussions and exchanging ideas.\nThank you for reading us, and see you soon on our blog!\nThe MoveNext team."
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Hello, World!",
-    "section": "",
-    "text": "This is the first post.\n\nIt has to be a start for every adventure. For software developers, it’s often just as simple as taking a cup of coffee and saying, “Hello, World!”. So here we are, and our journey begins."
-  },
-  {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
@@ -33,5 +19,19 @@
     "title": "MoveNext blog",
     "section": "",
     "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\n\n\n\n\nDec 30, 2022\n\n\n\n\n\n\n  \n\n\n\n\nHello, World!\n\n\n\n\n\n\n\n\n\n\n\n\nDec 29, 2022\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Welcome to the MoveNext blog!\nMoveNext is a consulting company located in Toulouse, France. Our domains of expertise are Software Design and Development and Machine Learning.\nThese fields are constantly evolving, and it is essential to stay informed and share knowledge with other professionals in the industry.\nWe hope our articles will be helpful to you and that you can benefit from them in your daily work. Feel free to share your comments and suggestions with us; we are always open to discussions and exchanging ideas.\nThank you for reading us, and see you soon on our blog!\nThe MoveNext team."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Hello, World!",
+    "section": "",
+    "text": "This is the first post.\n\nIt has to be a start for every adventure. For software developers, it’s often just as simple as taking a cup of coffee and saying, “Hello, World!”. So here we are, and our journey begins."
   }
 ]
